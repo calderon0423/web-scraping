@@ -7,5 +7,4 @@ pandas
 pymongo
 splinter
 bs4
-time
 re
