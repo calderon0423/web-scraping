@@ -1,0 +1,11 @@
+flask
+flask_restful
+flask-cors
+gunicorn
+sklearn
+pandas
+pymongo
+splinter
+bs4
+time
+re
